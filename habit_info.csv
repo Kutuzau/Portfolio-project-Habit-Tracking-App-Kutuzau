@@ -1,0 +1,6 @@
+habit_id,name,required_interval,current_streak_position,max_streak_position,status
+0,tennis,4 days,6,6,1
+1,reading,1 days 00:00:00,1,2,1
+2,football,7 days 00:00:00,13,13,1
+3,swimming,14 days 00:00:00,6,6,1
+4,jogging,1 days 00:00:00,1,1,1
